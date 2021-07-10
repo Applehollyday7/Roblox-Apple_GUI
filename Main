@@ -1,1 +1,11 @@
-print("Test")
+local StarterGui = game:GetService("StarterGui")
+
+function Notify(Text)
+	StarterGui:SetCore("SendNotification", {
+		Title = "Apple_GUI";
+		Text = Text;
+		Duration = 5
+	})
+end
+
+Notify("60% 완료")
