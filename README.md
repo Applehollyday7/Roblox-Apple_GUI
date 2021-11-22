@@ -2,9 +2,7 @@
 
 Support Game
 
-Roblox-Prison-life
-
-Roblox-Wall-war
+Roblox-Prison-life & Roblox-Wall-war
 
 Any issue & Key https://discord.gg/SyWtE43q27
 and im korean
