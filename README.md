@@ -10,5 +10,5 @@
 + [Prison life](https://github.com/Applehollyday7/Roblox-Apple_GUI/blob/main/Prison%20life%20Features)
 + [Wall war](https://github.com/Applehollyday7/Roblox-Apple_GUI/blob/main/Wall%20war%20Features)
 
-[Discord & Bug report & Key](https://discord.gg/SyWtE43q27)
+[Discord & Bug report & Key](https://discord.gg/DfXGNNpQXN)
 >and im korean
