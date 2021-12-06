@@ -1,0 +1,173 @@
++ Local
+- WalkSpeed [int] 
+- JumpPower [int]
+- Hipheight [int]
+- Gravity [int] 
+- Set Speed 24
+- Cursor
+- Respawn
+- Spawn
+- Sucide 
+- Heal
+- Hentai
+- Fullbright
+- Count
+- No Display Name
+- Rejoin
+- Lock
+- Cape
+- No Map
+
++ Player
+- Kill [str]
+- Taze [str]
+- Loop kill [str]
+- Loop taze [str]
+- Bring [str]
+- Loop bring [str]
+- Spam arrest [str]
+- dragging player [str]
+- tp [str]
+- View [str]
+- Trap [str]
+- Space [str]
+- Make Crime [str]
+- handcuff [str]
+- key card [str]
+- kill aura [str]
+- arrest aura [str]
+
++ Server
+- Lag Server
+- Shutdown
+- Kill all
+- kill guards
+- kill inmates
+- kill crim
+- kill neutral
+
++ Toggle
+- Anti taze
+- Anti arrest
+- Anti Touch
+- Anti fall
+- Anti crash
+- ANti bring
+- Anti invisible
+- God Mod
+- God Mod v2
+- One Punch
+- Fast Punch
+- Auto reload
+- Auto head
+- AUto Key
+- Auto gun
+- Auto re
+- No re cooldown
+- inf jump
+- speed car
+- no arrest cooldown
+- summon M9 & Key card
+
++ Team
+- Guard
+- Inmates
+- Crim
+- Neutral
+- Gold
+- Black
+- Gray
+- White
+- Orange
+- Red
+- Green
+- Purple
+- Chage color team [str]
+
++ Item
+- M4A1
+- Shotgun
+- M9
+- AK-47
+- Keycard
+- Shield
+- Armor
+- Hat
+- Mask
+- Knife
+- Hammer 
+- Speer
+- Grab Spear
+- Btools
+- MEal
+- Base ball bat
+- All item
+- Full set
+- All gun
+
++ Gun mod
+- Uzi
+- Auto [int]
+- Firate [int]
+- Spread [int]
+- Reload Time [int]
+
++ Tp
+- Guard room
+- Prison
+- Ground
+- Cafeteria
+- Tower
+- Roof
+- Parking
+- Sewer
+- Battle
+- PVP
+- Gate
+- Gate Top
+- Crim base
+- Bunker
+- Gas Station
+
++ PVP
+- Guard
+- Inmates
+- Crim
+- Neutral
+- Tp [str]
+- View [str]
+- Speed
+- Inf jump
+- Fullbright
+- Count
+- Rejoin
+- Respawn
+- Ground
+- Guard Room
+- Cafe
+- Crim base
+- PVP
+- Battle
+
++ KeyBind
+- Open/Close [Key]
+- Chat [Key]
+- Get Weapon [Key]
+- Invisible [Key]
+- Respawn [Key]
+- Del Shield [Key]
+- Noclip [Key]
+- Count [Key]
+
++ Etc
+- IY admin
+- Aim bot
+- Anti lag
+- Open Gate
+- Anti AFK
+- Anti Fling
+- Dex
+- Ping/Fps
+- Play song [int]
+- Stop song
+- Credit
